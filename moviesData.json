@@ -1,0 +1,505 @@
+{
+    "movies": {
+        "1" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49B92C046117E89BC9243A68EE277A3B30D551D4599F23C10BF0B8C1E90AEFB6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+            "subTitle": "2015 • 1h 35m • Coming of Age, Family, Animation",
+            "title": "Inside Out",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C647DF3FFBFA343CFEA84AC715148F25F9E86F398B408010CC403E7654FB908/scale?width=1440&aspectRatio=1.78",
+            "id":"1"
+        },
+        "2" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4E9E81584305009D6385F6178D4B6930E97CD6EC4A3B53C818400DEF778FFA9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B983FF22BA64B6E19E0D3267280819B26758CFB765E8BED1099D11E320612953/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Garfield is adopted by a greedy Lord with nefarious plans to open up his estate as a hunting ground.",
+            "subTitle": "2006 • 1h 19m • Family, Comedy, Kids",
+            "title": "A tail of two kitties",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/50B933E83609BEEFEDFA177A6D96DBFA7804C14F70A0B5AB314E892E65498ACF/scale?width=1440&aspectRatio=1.78",
+            "id":"2"
+        },
+        "3" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F39B7E16726ECF419DD7C49E011DD95099AA20A962B0B10AA1881A70661CE45/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/706C68FF1CEA5A9C2AE0608892C2DF79E4AC1F0DDB4BFF7FE6DAFC36DAFC0286/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "A Chinese mom who’s sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.",
+            "subTitle": "2018 • 7m • Family, Fantasy, Kids, Animation",
+            "title": "Bao",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D7AEE1F05D10FC37C873176AAA26F777FC1B71E7A6563F36C6B1B497CAB1CEC2/scale?width=1440&aspectRatio=1.78",
+            "id":"3"
+        },
+        "4" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FA1548A6B82C9991B1D38DF251A388FEA2483904510FBC73E150F67F7BDE38C0/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0ECD36DD35658155915685271440833C29ED87E788CF8AE111AA6BCA6B939C37/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When the kingdom's most wanted bandit is taken hostage by Rapunzel — a teen with 70 feet of golden hair who's looking to escape the tower where she's been locked away for years — the unlikely duo sets off on a hair-raising escapade.",
+            "subTitle": "2010 • 1h 40m • Family, Fantasy, Animation, Action-Adventure, Musical",
+            "title": "Tangled",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F70235E3463A6F246EB462ED5379F9D41D6318E80098BD40900E7AFC1C7D932D/scale?width=1440&aspectRatio=1.78",
+            "id":"4"
+        },
+        "5" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E486A02FA7B60669E77958D4FAE567AA5C9C57344006E1D1ADFC080719545166/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s 'Soul' introduces Joe, who lands the gig of his life at the best jazz club in town. But one misstep lands Joe in a fantastical place: The Great Before. There, he teams up with soul 22 (Tina Fey), and together they find the answers to some of life’s biggest questions.",
+            "subTitle": "2020 • 1h 49m • Family, Comedy, Fantasy, Animation, Music",
+            "title": "Soul",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E837DDE901CD036DD87A00F2D63E2F2458FAA798E62BE91F973AECCEA313A67E/scale?width=1440&aspectRatio=1.78",
+            "id":"5"
+        },
+        "6" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Moana sets sail on a daring mission to save her people. Along the way, she meets the mighty demigod Maui–together they cross the ocean on a fun-filled, action-packed voyage from Walt Disney Animation Studios.",
+            "subTitle": "2016 • 1h 47m • Family, Fantasy, Animation, Action-Adventure, Musical",
+            "title": "Moana",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9562874BAB22B22A698368819B9EBF30FEB0291543552EB2416A5A61A73F63F4/scale?width=1440&aspectRatio=1.78",
+            "id":"6"
+        },
+        "7" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B409C2A425D58C32D822EB633C7CAE3DC910DC2FC62D2B1807A0BB092C531E9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0A883EAB54DDDC924018D08CF4555EE72B3E9A8C214BDADF29CB82B5E2275D7/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "While Helen is called on to lead a campaign to bring back the Supers, Bob navigates the day-to-day heroics of “normal” life at home with Violet, Dash and Jack-Jack, whose superpowers are about to be discovered. Their mission is derailed, however, when a new villain emerges with a brilliant and dangerous plot that threatens everything. But with Frozone by their side, the Parrs can take on anything.",
+            "subTitle": "2018 • 1h 58m • Science Fiction, Family, Animation, Action-Adventure",
+            "title": "Incredibles 2",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2041CE26663867FC4EF20377B8625BD629E619452E23BCDB1AB259DD475C2EA1/scale?width=1440&aspectRatio=1.78",
+            "id":"7"
+        },
+        "8" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D53D1F5D357587A8D09067AB09FFC7096F837CBAAE02BDC3C0E75814471A1E36/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CC08686E87BDB2D83A46C9608CB2F43018381A82608C380649351A00ED0D2919/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "ASSEMBLED is an immersive series of documentary-style specials examining the creation of Marvel Studios’ thrilling new shows and theatrical releases.",
+            "subTitle": "2021 • 1 Season • Docuseries, Anthology",
+            "title": "Assembled",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37D80C5D1AB0BA65C63588311EC60A07342F60F91D402C28B8E1137AF6A30549/scale?width=1440&aspectRatio=1.78",
+            "id":"8"
+        },
+        "9" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2A509165105A09F9F533E2008B143BCF38D6A5859D0EBB40CCA388772005CD94/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A13BEC78ACF76FC91A94A1595A62A42CC26DFC6259332C74E061ADA379024E5C/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
+            "subTitle": "2020 • 6m • Family, Animation",
+            "title": "Burrow",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DD8BBA864E290FBC03A244A488FFC8DC8365FBF2F95A122B1D57BF3772D717FD/scale?width=1440&aspectRatio=1.78",
+            "id":"9"
+        },
+        "10" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/223DAE104BE1175F374C4AACAC0EB5B8B0DB9C49839AA2E10085533DDFE07A8E/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "This animated comedy focuses on the eponymous family in the town of Springfield. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie.",
+            "subTitle": "1989 - 2019 • 31 Seasons • Comedy, Animation",
+            "title": "The Simpsons",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/47A6FB38D95B3A5EF5583C9EED0B698ED2992CBA4AC7222DD3269DC92DFA03A6/scale?width=1440&aspectRatio=1.78",
+            "id":"10"
+        },
+        "11" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F6CDB6C0EB2D77EB19BCADA31F85066E001A1F61FA68F4AC3356A73FE076477F/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F8D1A6FD00ED479CC5E2E5C3E85F10EB05550748BD3C0FE76756614071968541/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Marvel Studios LEGENDS traces Wanda Maximoff’s evolution from an adversary of The Avengers to a powerful ally, and highlights one special relationship destined to shape her future in unexpected ways…",
+            "subTitle": "2021 • 1 Season • Science Fiction, Fantasy, Action-Adventure",
+            "title": "Legends",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DDFF0FDF457E092EE53149CE7DB5BD14CB97E27B92D2D087E7C687B4E3073DE2/scale?width=1440&aspectRatio=1.78",
+            "id":"11"
+        },
+        "12" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09A0617D43282F1A4FA1A97DF6159B4263A8DEB9679A007B61D5E5D6E5D0A2DD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E0501AFBAFCA1ABB5D31DBA7D1A913B2A35D70FD3DFD804939B71901577161D/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Watch with Premier Access at the same time it's in open theaters and before it's available to all Disney+ subscribers on June 4, 2021.",
+            "subTitle": "2021 • 1h 52m • Family, Fantasy, Animation, Action-Adventure",
+            "title": "Raya",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E7D8EFFDD30B2A0E205DDD9929207439B21E7595709769F2A23C50457664FFB2/scale?width=1440&aspectRatio=1.78",
+            "id":"12"
+        },
+        "13" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09DAD6A5DAECB6BA9E329FFA896B18978FE4AD5540C070D7973EE53357DD4D24/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01666FAA085FF29B709DB13975E563E5E047DAAFF7D8F331201CB73F3C30027E/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "When Bob Parr visits designer Edna Mode for help with his high-energy toddler, she pulls an all-nighter designing a supersuit to harness Jack-Jack’s seemingly limitless powers.",
+            "subTitle": "2018 • 7m • Family, Comedy, Animation",
+            "title": "Auntie EDNA",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A31BE6502DC7A3A01DAF58DF7E91AB6FF598A078C8FA88A1DB2D7B7E25439464/scale?width=1440&aspectRatio=1.78",
+            "id":"13"
+        },
+        "14" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6FF2B403436E6558C08FB44B40AE334A9172FA293A8325940E8E7FF7F696E4D3/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "Mickey entertains preschoolers by inviting them to join him and his friends for a date at the Clubhouse. Using early math learning and problem solving skills, he leads kids on an interactive adventure of learning and fun.",
+            "subTitle": "2006 - 2013 • 5 Seasons • Kids, Animation",
+            "title": "Mickey mouse",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FF3FCD567F0263430DFC33B9489CE2799AE33B50AD553DE65F03B3EA2E19828/scale?width=1440&aspectRatio=1.78",
+            "id":"14"
+        },
+        "15" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/456A711C19899C881600F6247705E5253EB18C2471D75E5281E1FF6ACB6D2FBA/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=originals",
+            "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global adventure that tests their abilities—and their patience.",
+            "subTitle": "2021 • 1 Season • Science Fiction, Action-Adventure, Buddy",
+            "title": "The falcon and the winter soldier",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A67A42FB16607DAE7E22266D3F00181965178ED1884047C2D982EE7D89D3554/scale?width=1440&aspectRatio=1.78",
+            "id":"15"
+        },
+        "16" :{
+            "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/28F85D4A1F7CA135B7B20B3EDB42EDA73196C2A71C52C5400A6C2285F8E071BE/scale?width=1440&aspectRatio=1.78&format=jpeg",
+            "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B32D8CB7C0C358E9FF348FB0338AD13F9A5836808E9EF5FADD9DBDE52FC3CAD/scale?width=400&aspectRatio=1.78&format=jpeg",
+            "description": "J-Pop band Perfume is featured in this original music and documentary series 'Disney’s My Music Story.' The show features Perfume's life stories, passion for music, Disney memories, and more.",
+            "subTitle": "2019 • 53m • Documentary, Biographical, Music",
+            "title": "My music story",
+            "titleImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/97BB36F8B9FC053F561894DD7B1C42C4FD20E63560F481CBCB3B9D3600CFCA3B/scale?width=1440&aspectRatio=1.78",
+            "id":"16"
+        },
+        "17" :{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/small2.jpg",
+            "description": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+            "subTitle": "2010 • 1h 53m • Animation,Comedy",
+            "title": "Despicable Me",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/despicable-me.png",
+            "id":"17"
+        },
+        "18":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/small2.jpg",
+            "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+            "subTitle": "2013 • 1h 42m • Animation,Comedy,Adventure",
+            "title": "Frozen",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/frozen.png",
+            "id":"18"
+        }
+        ,"19":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/small2.jpg",
+            "description": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+            "subTitle": "2012 • 1h 31m • Animation,Comedy,Adventure",
+            "title": "Hotel transylvania",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/hotel-transylvania.png",
+            "id":"19"
+        }
+        ,"20":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/small2.jpg",
+            "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+            "subTitle": "2001 • 2h 4m • Animation,Family,Adventure",
+            "title": "Spirited Away",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/spirited-away.png",
+            "id":"20"
+        },"21":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/small2.jpg",
+            "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+            "subTitle": "2009 • 1h 36m • Animation,Comedy,Adventure",
+            "title": "UP",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/up.png",
+            "id":"21"
+        },"22":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/small2.jpg",
+            "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+            "subTitle": "1999 • 2h 6m • Drama",
+            "title": "Fight Club",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/fight-club.png",
+            "id":"22"
+        },"23":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/small2.jpg",
+            "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
+            "subTitle": "2010 • 1h 58m • Drama,History",
+            "title": "The King's Speech",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/the-kings-speech.png",
+            "id":"23"
+        },"24":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/small2.jpg",
+            "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+            "subTitle": "2006 • 2h 10m • Drama,Sci-Fi",
+            "title": "The Prestige",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/the-prestige.png",
+            "id":"24"
+        },"25":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-revenant/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-revenant/small2.jpg",
+            "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+            "subTitle": "2015 • 2h 36m • Drama,Adventure",
+            "title": "The Revenant",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-revenant/the-revenant.png",
+            "id":"25"
+        },"26":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/small.2jpg",
+            "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+            "subTitle": "2010 • 2h • Drama,Bio",
+            "title": "The Social Network",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/the%20social.jpg",
+            "id":"26"
+        },"27":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/a-star-is-born/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/a-star-is-born/small2.jpg",
+            "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.",
+            "subTitle": "2018 • 2h 16m • Romance,Music",
+            "title": "A Star Is Born",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/a-star-is-born/a-star-is-born.png",
+            "id":"27"
+        },"28":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/small2.jpg",
+            "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+            "subTitle": "2016 • 2h 8m • Romance,Love",
+            "title": "La La Land",
+            "titleImg": "children/hotel-transylvania/hotel-transylvania.png",
+            "id":"28"
+        },"29":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/small2.jpg",
+            "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
+            "subTitle": "2004 • 2h 3m • Drama,Romance",
+            "title": "The Notebook",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/the%20notebook.png",
+            "id":"29"
+        },"30":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/small2.jpg",
+            "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "subTitle": "1997 • 3h 10m • Drama,Romance",
+            "title": "Titanic",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/titanic.png",
+            "id":"30"
+        },"31":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/small2.jpg",
+            "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+            "subTitle": "2013 • 2h 33m • Crime,Drama,Mystery",
+            "title": "Prisoners",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/prisoners.png",
+            "id":"31"
+        },"32":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/small2.jpg",
+            "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "subTitle": "1995 • 2h 7m • Crime,Drama,Mystery",
+            "title": "Se7en",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/se7en.png",
+            "id":"32"
+        },"33":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/small2.jpg",
+            "description": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+            "subTitle": "2007 • 2h 37m • Crime,Drama,Mystery",
+            "title": "Zodiac",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/zodiac.png",
+            "id":"33"
+        },"34":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/small2.jpg",
+            "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+            "subTitle": "2018 • 1h 35m •  Horror,Drama,Sci-Fi",
+            "title": "A Quiet Place",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/A_Quiet_Place.png",
+            "id":"34"
+        },"35":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/small2.jpg",
+            "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake.",
+            "subTitle": "2010 • 1h 48m •  Drama,Mystery",
+            "title": "Black Swan",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"35"
+        },"36":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/Boogie/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/Boogie/small2.jpg",
+            "description": "A Coming-of-age story of Alfred Boogie Chin, a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. ",
+            "subTitle": "2021 • 1h 30m •  Drama,Sport",
+            "title": "Boogie",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"36"
+        },"37":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzila/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzila/small2.png",
+            "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
+            "subTitle": "2021 • 1h 53m •  Adventure,Mystery",
+            "title": "Godzilla vs. Kong",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"37"
+        },"38":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/large.jpeg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/small2.jpg",
+            "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+            "subTitle": "2011-2019 • 53m •  Action,Adventure,Drama",
+            "title": "Game of Thrones",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"38"
+        },"39":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/small.jpg",
+            "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake.",
+            "subTitle": "2010 • 1h 48m •  Drama,Mystery",
+            "title": "Black Swan",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"39"
+        },"40":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/large.jpeg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/small2.jpg",
+            "description": "A film version of the Broadway musical in which Usnavi, a sympathetic New York bodega owner, saves every penny every day as he imagines and sings about a better life.",
+            "subTitle": "2021 • 2h 23m •  Drama,Dance,Romance",
+            "title": "In the heigths",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"40"
+        },"41":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/land/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/land/small2.jpg",
+            "description": "A bereaved woman seeks out a new life, off the grid in Wyoming.",
+            "subTitle": "2021 • 1h 29m •  Drama,Adventure",
+            "title": "Land",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"41"
+        },"42":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/small2.jpg",
+            "description": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+            "subTitle": "2021 • 1h 50m •  Ation,Adventure",
+            "title": "Mortal Kombat",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"42"
+        },"43":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/promising/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/promising/small2.jpg",
+            "description": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "subTitle": "2020 • 1h 53m •  Drama,Mystery,Crime",
+            "title": "Promising Young Woman",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"43"
+        },"44":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/voyagers/large.jpeg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/voyagers/small2.jpg",
+            "description": "A crew of astronauts on a multi-generational mission descend into paranoia and madness, not knowing what is real or not.",
+            "subTitle": "2020 • 1h 48m •  Sci-Fi,Mystery",
+            "title": "Voyagers",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"44"
+        },"45":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/large.jpeg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/small2.jpg",
+            "description": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+            "subTitle": "2018 • 30m •  Drama,Mystery",
+            "title": "Cobra Kai",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"45"
+        },"46":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/small2.jpg",
+            "description": "Andie is on a mission to shake her stigma with the help of her three best friends.",
+            "subTitle": "2016-2018 • 23m •  Comedy",
+            "title": "FourSome",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"46"
+        },"47":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/small2.jpg",
+            "description": "A young woman discovers she has the extraordinary power of teleportation",
+            "subTitle": "2018-2019 • 50m •  Drama,Action,Sci-fi",
+            "title": "Impulse",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"47"
+        },"48":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%20field/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%field/small2.png",
+            "description": "Join me on a journey into the mysterious depths of the human psyche as I investigate the strange and surprising terrain of the Mind Field.",
+            "subTitle": "2017- • 26m •  Drama,Mystery",
+            "title": "Mind Field",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"48"
+        },"49":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/small2.jpg",
+            "description": "A group of strangers struggle for survival aboard a spaceship heading to a distant planet.",
+            "subTitle": "2018 • 45m •  Horror",
+            "title": "Origin",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"49"
+        },"50":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/step%20up/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/step%20up/small2.jpg",
+            "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
+            "subTitle": "2018 • 50m •  Drama,Music",
+            "title": "Step Up:High Water",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"50"
+        },"51":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/small2.jpg",
+            "description": "A Twilight Zone-esque look at the life and people living in a futuristic city where the haves and the have nots are strictly separated by a wall.",
+            "subTitle": "2019 • 30m •  Drama,Sci-fi",
+            "title": "Weird City",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"51"
+        },"52":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/small2.jpg",
+            "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
+            "subTitle": "2018 • 50m •  Drama,Music",
+            "title": "Wayne",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"52"
+        },"53":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/small2.jpeg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/small2.jpg",
+            "description": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+            "subTitle": "2015 • 1h 31m •  Animation,Comedy",
+            "title": "Minions",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"53"
+        },"54":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/small2.jpg",
+            "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+            "subTitle": "2016 • 1h 27m •  Adventure,Animation",
+            "title": "The Secret Life of Pets",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"54"
+        },"55":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/small2.jpg",
+            "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
+            "subTitle": "2020 • 1h 30m •  Adventure,Animation",
+            "title": "Trolls",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"55"
+        },"56":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/small2.jpg",
+            "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+            "subTitle": "2021 • 1h 37m •  Action,Adventure,Sci-Fi",
+            "title": "Venom",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"56"
+        },"57":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/small2.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/small2.jpg",
+            "description": "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.",
+            "subTitle": "2013-2018 • 45m •  Drama,Adventure",
+            "title": "The Originals",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"57"
+        },"58":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/small2.jpg",
+            "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
+            "subTitle": "2013-2020 • 44m •  Adventure,Action",
+            "title": "Vikings",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"58"
+        },"59":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/small2.webp",
+            "description": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+            "subTitle": "2015 • 2h 5m •  Romance,Thriller",
+            "title": "Fifty Shades Of Grey",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"59"
+        },"60":{
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/large.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/small2.webp",
+            "description": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+            "subTitle": "2019 • 1h 58m •  Drama,Suspence",
+            "title": "Badla",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "id":"60"
+        }
+        
+    }
+}
