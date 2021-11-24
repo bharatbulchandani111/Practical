@@ -145,7 +145,7 @@
             "id":"16"
         },
         "17" :{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/despicable-me/small2.jpg",
             "description": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
             "subTitle": "2010 • 1h 53m • Animation,Comedy",
@@ -154,7 +154,7 @@
             "id":"17"
         },
         "18":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/frozen/small2.jpg",
             "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
             "subTitle": "2013 • 1h 42m • Animation,Comedy,Adventure",
@@ -163,7 +163,7 @@
             "id":"18"
         }
         ,"19":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/hotel-transylvania/small2.jpg",
             "description": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
             "subTitle": "2012 • 1h 31m • Animation,Comedy,Adventure",
@@ -172,7 +172,7 @@
             "id":"19"
         }
         ,"20":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/small2.jpg",
             "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
             "subTitle": "2001 • 2h 4m • Animation,Family,Adventure",
@@ -180,7 +180,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/spirited-away/spirited-away.png",
             "id":"20"
         },"21":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/small2.jpg",
             "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
             "subTitle": "2009 • 1h 36m • Animation,Comedy,Adventure",
@@ -188,15 +188,15 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/up/up.png",
             "id":"21"
         },"22":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/large.jpg",
-            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/small2.jpg",
-            "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-            "subTitle": "1999 • 2h 6m • Drama",
-            "title": "Fight Club",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/fight-club/fight-club.png",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/blob/main/films/thriller/joker/large2.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/blob/main/films/thriller/joker/small2.jpg",
+            "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker..",
+            "subTitle": "2019 • 2h 6m • Drama,Crime",
+            "title": "Joker",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/blob/main/films/thriller/joker/joker.png",
             "id":"22"
         },"23":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/small2.jpg",
             "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.",
             "subTitle": "2010 • 1h 58m • Drama,History",
@@ -204,7 +204,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/kings-speech/the-kings-speech.png",
             "id":"23"
         },"24":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-prestige/small2.jpg",
             "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
             "subTitle": "2006 • 2h 10m • Drama,Sci-Fi",
@@ -220,8 +220,8 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-revenant/the-revenant.png",
             "id":"25"
         },"26":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/large.jpg",
-            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/small.2jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/large2.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the-social-network/small2.jpg",
             "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
             "subTitle": "2010 • 2h • Drama,Bio",
             "title": "The Social Network",
@@ -236,15 +236,15 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/a-star-is-born/a-star-is-born.png",
             "id":"27"
         },"28":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/small2.jpg",
             "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
             "subTitle": "2016 • 2h 8m • Romance,Love",
             "title": "La La Land",
-            "titleImg": "children/hotel-transylvania/hotel-transylvania.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/la-la-land/la.png",
             "id":"28"
         },"29":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/small2.jpg",
             "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.",
             "subTitle": "2004 • 2h 3m • Drama,Romance",
@@ -252,7 +252,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/the-notebook/the%20notebook.png",
             "id":"29"
         },"30":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/small2.jpg",
             "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
             "subTitle": "1997 • 3h 10m • Drama,Romance",
@@ -260,7 +260,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/titanic/titanic.png",
             "id":"30"
         },"31":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/small2.jpg",
             "description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
             "subTitle": "2013 • 2h 33m • Crime,Drama,Mystery",
@@ -268,7 +268,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/prisoners/prisoners.png",
             "id":"31"
         },"32":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/small2.jpg",
             "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
             "subTitle": "1995 • 2h 7m • Crime,Drama,Mystery",
@@ -276,7 +276,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/seven/se7en.png",
             "id":"32"
         },"33":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/small2.jpg",
             "description": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
             "subTitle": "2007 • 2h 37m • Crime,Drama,Mystery",
@@ -284,7 +284,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/zodiac/zodiac.png",
             "id":"33"
         },"34":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/small2.jpg",
             "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
             "subTitle": "2018 • 1h 35m •  Horror,Drama,Sci-Fi",
@@ -292,7 +292,7 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/a-quiet-place/A_Quiet_Place.png",
             "id":"34"
         },"35":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/small2.jpg",
             "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake.",
             "subTitle": "2010 • 1h 48m •  Drama,Mystery",
@@ -305,39 +305,39 @@
             "description": "A Coming-of-age story of Alfred Boogie Chin, a basketball phenom living in Queens, New York, who dreams of one day playing in the NBA. ",
             "subTitle": "2021 • 1h 30m •  Drama,Sport",
             "title": "Boogie",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://github.com/bharatbulchandani111/Practical/blob/main/films/HBO/Boogie/boogie.png",
             "id":"36"
         },"37":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzila/large.jpg",
-            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzila/small2.png",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzilla/large2.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzilla/small2.png",
             "description": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
             "subTitle": "2021 • 1h 53m •  Adventure,Mystery",
             "title": "Godzilla vs. Kong",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/godzilla/godzilla.png",
             "id":"37"
         },"38":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/large.jpeg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/large2.jpeg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/small2.jpg",
             "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
             "subTitle": "2011-2019 • 53m •  Action,Adventure,Drama",
             "title": "Game of Thrones",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/GOT/got.png",
             "id":"38"
         },"39":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large.jpg",
-            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/small.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/large2.jpg",
+            "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/small2.jpg",
             "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's Swan Lake.",
             "subTitle": "2010 • 1h 48m •  Drama,Mystery",
             "title": "Black Swan",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
             "id":"39"
         },"40":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/large.jpeg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/small2.jpg",
             "description": "A film version of the Broadway musical in which Usnavi, a sympathetic New York bodega owner, saves every penny every day as he imagines and sings about a better life.",
             "subTitle": "2021 • 2h 23m •  Drama,Dance,Romance",
             "title": "In the heigths",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/In%20the%20heigths/heigths.png",
             "id":"40"
         },"41":{
             "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/land/large.jpg",
@@ -345,15 +345,15 @@
             "description": "A bereaved woman seeks out a new life, off the grid in Wyoming.",
             "subTitle": "2021 • 1h 29m •  Drama,Adventure",
             "title": "Land",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/land/land.png",
             "id":"41"
         },"42":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/small2.jpg",
             "description": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
             "subTitle": "2021 • 1h 50m •  Ation,Adventure",
             "title": "Mortal Kombat",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/mortal/mortal.png",
             "id":"42"
         },"43":{
             "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/promising/large.jpg",
@@ -361,10 +361,10 @@
             "description": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
             "subTitle": "2020 • 1h 53m •  Drama,Mystery,Crime",
             "title": "Promising Young Woman",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/promising/promising.png",
             "id":"43"
         },"44":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/voyagers/large.jpeg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/voyagers/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/HBO/voyagers/small2.jpg",
             "description": "A crew of astronauts on a multi-generational mission descend into paranoia and madness, not knowing what is real or not.",
             "subTitle": "2020 • 1h 48m •  Sci-Fi,Mystery",
@@ -372,44 +372,44 @@
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
             "id":"44"
         },"45":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/large.jpeg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/small2.jpg",
             "description": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
             "subTitle": "2018 • 30m •  Drama,Mystery",
             "title": "Cobra Kai",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/cobra/Cobra.png",
             "id":"45"
         },"46":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/small2.jpg",
             "description": "Andie is on a mission to shake her stigma with the help of her three best friends.",
             "subTitle": "2016-2018 • 23m •  Comedy",
             "title": "FourSome",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/four%20some/Foursome.png",
             "id":"46"
         },"47":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/small2.jpg",
-            "description": "A young woman discovers she has the extraordinary power of teleportation",
-            "subTitle": "2018-2019 • 50m •  Drama,Action,Sci-fi",
-            "title": "Impulse",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+            "subTitle": "2017 • 2h 21m •  Fantasy,Action,Sci-fi",
+            "title": "Wonder Woman",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/impulse/wonder.png",
             "id":"47"
         },"48":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%20field/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%20field/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%field/small2.png",
-            "description": "Join me on a journey into the mysterious depths of the human psyche as I investigate the strange and surprising terrain of the Mind Field.",
-            "subTitle": "2017- • 26m •  Drama,Mystery",
-            "title": "Mind Field",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "description": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+            "subTitle": "2016 • 2h 26m •  Drama,Mystery",
+            "title": "Fantastic Beast",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/mind%20field/fantastic.png",
             "id":"48"
         },"49":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/small2.jpg",
-            "description": "A group of strangers struggle for survival aboard a spaceship heading to a distant planet.",
-            "subTitle": "2018 • 45m •  Horror",
-            "title": "Origin",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "description": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
+            "subTitle": "2017 • 1h 56m •  Crime,Action",
+            "title": "Baywatch",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/origin/baywatch.png",
             "id":"49"
         },"50":{
             "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/step%20up/large.jpg",
@@ -417,87 +417,87 @@
             "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
             "subTitle": "2018 • 50m •  Drama,Music",
             "title": "Step Up:High Water",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/step%20up/step.png",
             "id":"50"
         },"51":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/small2.jpg",
-            "description": "A Twilight Zone-esque look at the life and people living in a futuristic city where the haves and the have nots are strictly separated by a wall.",
-            "subTitle": "2019 • 30m •  Drama,Sci-fi",
-            "title": "Weird City",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "description": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+            "subTitle": "2014 • 1h 54m •  Drama,Biography",
+            "title": "The Imitation Game",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/weird/imitation.png",
             "id":"51"
         },"52":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/small2.jpg",
-            "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
-            "subTitle": "2018 • 50m •  Drama,Music",
-            "title": "Wayne",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "description": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.",
+            "subTitle": "2017 • 1h 46m •  Drama,Action",
+            "title": "Dunkirk",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/youtube/wayne/dunkirk.png",
             "id":"52"
         },"53":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/small2.jpeg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/small2.jpg",
             "description": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
             "subTitle": "2015 • 1h 31m •  Animation,Comedy",
             "title": "Minions",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/minions/minions.png",
             "id":"53"
         },"54":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/small2.jpg",
             "description": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
             "subTitle": "2016 • 1h 27m •  Adventure,Animation",
             "title": "The Secret Life of Pets",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/secret_life/secret.png",
             "id":"54"
         },"55":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/small2.jpg",
             "description": "Based on the Step Up franchise, the series tells the story of the students and teachers at High Water Performing Arts School in Atlanta.",
             "subTitle": "2020 • 1h 30m •  Adventure,Animation",
             "title": "Trolls",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/children/trolls/trolls.png",
             "id":"55"
         },"56":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/small2.jpg",
             "description": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
             "subTitle": "2021 • 1h 37m •  Action,Adventure,Sci-Fi",
             "title": "Venom",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/venom/venom.png",
             "id":"56"
         },"57":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/small2.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/small2.jpg",
             "description": "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.",
             "subTitle": "2013-2018 • 45m •  Drama,Adventure",
             "title": "The Originals",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/the_originals/originals.png",
             "id":"57"
         },"58":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/small2.jpg",
             "description": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean.",
             "subTitle": "2013-2020 • 44m •  Adventure,Action",
             "title": "Vikings",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/drama/vikings/vikings.png",
             "id":"58"
         },"59":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/small2.webp",
             "description": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
             "subTitle": "2015 • 2h 5m •  Romance,Thriller",
             "title": "Fifty Shades Of Grey",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/romance/fifty%20shades/Fifty_shades",
             "id":"59"
         },"60":{
-            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/large.jpg",
+            "backgroundImg":"https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/small2.webp",
             "description": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
             "subTitle": "2019 • 1h 58m •  Drama,Suspence",
             "title": "Badla",
-            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/thriller/black-swan/black-swan.png",
+            "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/suspense/badla/badla.png",
             "id":"60"
         }
         
