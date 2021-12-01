@@ -3,7 +3,7 @@
         "1" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/Inside/large2",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/Inside/small2.jpg",
-            "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+            "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together.",
             "subTitle": "2015 • 1h 35m • Coming of Age, Family, Animation",
             "title": "Inside Out",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/Inside/inside.png",
@@ -25,7 +25,7 @@
         "3" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/bao/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/bao/small2.jpg",
-            "description": "A Chinese mom who’s sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. But she finds that nothing stays cute and small forever.",
+            "description": "A Chinese mom who’s sad when her grown son leaves home gets another chance at motherhood when one of her dumplings springs to life. ",
             "subTitle": "2018 • 7m • Family, Fantasy, Kids, Animation",
             "title": "Bao",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/bao/bao.png",
@@ -47,7 +47,7 @@
         "5" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/soul/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/soul/small2.jpg",
-            "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s 'Soul' introduces Joe, who lands the gig of his life at the best jazz club in town. But one misstep lands Joe in a fantastical place: The Great Before. There, he teams up with soul 22 (Tina Fey), and together they find the answers to some of life’s biggest questions.",
+            "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. Pixar’s 'Soul' introduces Joe, who lands the gig of his life at the best jazz club in town.",
             "subTitle": "2020 • 1h 49m • Family, Comedy, Fantasy, Animation, Music",
             "title": "Soul",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/soul/soul.png",
@@ -69,7 +69,7 @@
         "7" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/incredible/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/incredible/small2.jpg",
-            "description": "While Helen is called on to lead a campaign to bring back the Supers, Bob navigates the day-to-day heroics of “normal” life at home with Violet, Dash and Jack-Jack, whose superpowers are about to be discovered. Their mission is derailed, however, when a new villain emerges with a brilliant and dangerous plot that threatens everything. But with Frozone by their side, the Parrs can take on anything.",
+            "description": "While Helen is called on to lead a campaign to bring back the Supers, Bob navigates the day-to-day heroics of “normal” life at home with Violet, Dash and Jack-Jack, whose superpowers are about to be discovered.",
             "subTitle": "2018 • 1h 58m • Science Fiction, Family, Animation, Action-Adventure",
             "title": "Incredibles 2",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/incredible/incredible.png",
@@ -91,7 +91,7 @@
         "9" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/burrow/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/burrow/small2.jpg",
-            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing. Rather than reveal to her neighbors her imperfections, she digs herself deeper and deeper into trouble. After hitting (bed)rock bottom, she learns there is no shame in asking for help.",
+            "description": "A young rabbit embarks on a journey to dig the burrow of her dreams, despite not having a clue what she’s doing.",
             "subTitle": "2020 • 6m • Family, Animation",
             "title": "Burrow",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/burrow/burrow.png",
@@ -102,7 +102,7 @@
         "10" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/simp/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/simp/small2.jpg",
-            "description": "This animated comedy focuses on the eponymous family in the town of Springfield. The head of the Simpson family, Homer, is not a typical family man. A nuclear-plant employee, he does his best to lead his family but often finds that they are leading him. The family includes loving, blue-haired matriarch Marge, troublemaking son Bart, overachieving daughter Lisa and baby Maggie.",
+            "description": "This animated comedy focuses on the eponymous family in the town of Springfield. The head of the Simpson family, Homer, is not a typical family man..",
             "subTitle": "1989 - 2019 • 31 Seasons • Comedy, Animation",
             "title": "The Simpsons",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/simp/simp.png",
@@ -157,7 +157,7 @@
         "15" :{
             "backgroundImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/falcon/large2.jpg",
             "cardImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/falcon/small2.jpg",
-            "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global adventure that tests their abilities—and their patience.",
+            "description": "Marvel Studios’ “The Falcon and The Winter Soldier” stars Anthony Mackie as Sam Wilson aka The Falcon, and Sebastian Stan as Bucky Barnes aka The Winter Soldier. The pair, who came together in the final moments of “Avengers: Endgame,” team up on a global.",
             "subTitle": "2021 • 1 Season • Science Fiction, Action-Adventure, Buddy",
             "title": "The falcon and the winter soldier",
             "titleImg": "https://raw.githubusercontent.com/bharatbulchandani111/Practical/main/films/Disney/falcon/falcon.png",
